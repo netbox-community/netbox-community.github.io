@@ -1,1 +1,5 @@
+# Site settings
+title: "NetBox.dev"
+description: "NetBox Community Landing page"
+url: "netbox.dev"
 theme: jekyll-theme-cayman
